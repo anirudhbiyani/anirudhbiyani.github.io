@@ -2,6 +2,8 @@
 name: Aniruddha Biyani
 bio: Information Security Enthusiast
 
+title: Aniruddha Biyani
+
 # twitter summary info
 description: A blog about technology and stuff related
 
@@ -91,3 +93,4 @@ animation: true
 plugins:
   - jekyll-gist
   - jemoji
+  - jekyll-seo-tag
