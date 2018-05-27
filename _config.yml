@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/pc.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -47,13 +47,14 @@ github: anirudhbiyani
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: contact@anirudhbiyani.com
+keybase: anirudhbiyani
 
 authors:
     johndoe:
         name: Aniruddha Biyani
         bio: Information Security Enthusiast
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/pc.png
         twitter: johndoe
 
 # do you want a larger site? change the option below
@@ -66,11 +67,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
-blog: false
+about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: false

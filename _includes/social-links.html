@@ -23,4 +23,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.keybase%}
+        <a class="link" data-title="{{ site.keybase }}" href="https://keybase.io/{{site.keeybase}}" target="_blank">
+          <svg class="icon icon-keybase"><use xlink:href="#icon-keybase"></use></svg>
+        </a>
+    {% endif %}
 </div>
