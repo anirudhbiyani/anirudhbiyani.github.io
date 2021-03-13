@@ -2,35 +2,21 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
+<p>
+Hi! I am Aniruddha Biyani (aka malprxctice), an Information Security Professional focused in securing and defending Computing Infrastructure. I help in building and/or strengthening Information Security programs for Startups and SMEs focused in SaaS products.
+</p>
+<p>
+In addition to learning cool new tech skills, I contribute to open source projects and speak at various conference and meetups as well as train people.
+</p>
+<p>
 <h2>Skills</h2>
-
 <ul class="skill-list">
-	<li>Network Security</li>
+	<li>Security Architecture and Engineering</li>
+	<li>Cloud Security - Amazon Web Services, Microsoft Azure, Google Cloud</li>
+	<li>Detection Engineering</li>
+	<li>Security Operations and Incident Response</li>
+	<li>Automation - Python, Bash, Powershell</li>
+	<li>Infrastructure Security - Linux and macOS</li>
 	<li>Threat and Vulnerability Management</li>
-	<li>Threat Intelligence</li>
-	<li>Incident Response</li>
-	<li>Infrastructure Security</li>
-	<li>Amazon Web Services</li>
-	<li>Linux</li>
-	<li>Windows</li>
-	<li>Python</li>
-	<li>Shell Scripting</li>
-	<li>Domain Name System</li>
-	<li>IT Infrastructure</li>
 </ul>
+</p>
