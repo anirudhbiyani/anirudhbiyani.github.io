@@ -22,7 +22,6 @@ email: hi@anirudhbiyani.com
 # > twitter_username:
 github_username: anirudhbiyani
 linkedin_username: anirudhbiyani
-twitter_username: malprxctice
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -32,7 +31,7 @@ show_aboutme_card: false
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: about me
 # about_me_description: This will be displayed under the title.
-about_me_description: aniruddha “AB” biyani (@malprxctice) has been building or maturing cloud security programs for startups and cybersecurity vendors or building SaaS security products. currently working as lead security engineer at CRED where he runs the Cloud Security, DevSecOps and Cloud Incident Response programs. in his free time, he is either working on building something or volunteering at null and defcon cloud village.
+about_me_description: aniruddha “AB” biyani (@malprxctice) has been information security program at Prophecy.io. in his free time, he is either working on building open source projects like findmytakeover and cloud-auth or speaking/voluntering at infosec conferences. 
 
 # SKILLS SECTION
 # show_skills_card:
